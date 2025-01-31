@@ -16,10 +16,9 @@ int main()
     lcm=product/gcd;
     printf("GCD:%d\nLCM:%d",gcd,lcm);
     return 0;
-}*/
+}
 
-
-/*#include <stdio.h>
+#include <stdio.h>
 int main()
 {
     int n;
@@ -33,4 +32,4 @@ int main()
         printf("The number is not divisible by 9");
     }
     return 0;
-}
+    }
